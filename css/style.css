@@ -1,0 +1,54 @@
+section{
+	margin-bottom: 30px;
+}
+h1{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.box1{
+	min-height: 50px;
+}
+.col1{
+	margin-left:8px;
+}
+.box,.box2,.box3,.box4,.flex1{
+	min-height: 80px;
+	background-color: lightgray;
+	border:1px solid black;
+}
+p{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
+.box2{
+	background-color:darkseagreen ;
+}
+.box3{
+	background-color:darkkhaki ;
+}
+.box4{
+	background-color:indianred ;
+}
+.sec2{
+	background-color: antiquewhite;
+}
+.flex1{
+	min-height: 50px;
+}
+
+.box5{
+	height: 200px;
+	width: 200px;
+	border: 1px solid;
+}
+.sec2{
+	height: 100px;
+	background-color: lightgray;
+
+}
+.con1{
+	border: 1px solid;
+}
